@@ -5,7 +5,8 @@
           "title": "Cat Adoption Day",
           "description": "Find you new feline friend at this event",
           "location": "Meow Town",
-          "organizer": "Kat Laydee",
+          "time": "12:00",
+          "organizer": "Kat Laydee"
         },
         {
           "id": 4585027,
@@ -15,7 +16,7 @@
           "location": "Flora Town",
           "date": "February 10, 2022",
           "time": "12:00",
-          "organizer": "Farn Pollin",
+          "organizer": "Farn Pollin"
         },
         {
           "id": 3520901,
@@ -25,6 +26,6 @@
           "location": "Playa Del Carmen",
           "date": "July 10 2022",
           "time": "11:00",
-          "organizer": "Carey wales",
+          "organizer": "Carey wales"
         }
     }
