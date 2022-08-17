@@ -1,4 +1,5 @@
 {
+        "Events": [
         {
           "id": 5928101,
           "category": "animal welfare",
@@ -6,7 +7,6 @@
           "description": "Find you new feline friend at this event",
           "location": "Meow Town",
           "time": "12:00",
-          "persAllowed": true,
           "organizer": "Kat Laydee",
         },
         {
@@ -17,7 +17,6 @@
           "location": "Flora Town",
           "date": "February 10, 2022",
           "time": "12:00",
-          "persAllowed": true,
           "organizer": "Farn Pollin",
         },
         {
@@ -28,7 +27,7 @@
           "location": "Playa Del Carmen",
           "date": "July 10 2022",
           "time": "11:00",
-          "persAllowed": false,
           "organizer": "Carey wales",
         },
+                ]
     }
