@@ -1,9 +1,26 @@
 {
         {
-          "id": 5928101,
-          "category": "animal welfare",
-          "title": "Cat Adoption Day",
-          "description": "Find you new feline friend at this event",
-          "location": "Meow Town"
+          "time": "12:00",
+          "organizer": "Kat Laydee"
+        },
+        {
+          "id": 4585027,
+          "category": "Food",
+          "title": "Community Gethering",
+          "description": "Joins us as we tend to the community edible points",
+          "location": "Flora Town",
+          "date": "February 10, 2022",
+          "time": "12:00",
+          "organizer": "Farn Pollin"
+        },
+        {
+          "id": 3520901,
+          "category": "Sustainability",
+          "title": "Beach Cleanup",
+          "description": "Help pick up trash along the shore.",
+          "location": "Playa Del Carmen",
+          "date": "July 10 2022",
+          "time": "11:00",
+          "organizer": "Carey wales"
         }
     }
