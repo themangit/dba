@@ -1,5 +1,4 @@
 {
-      events: [
         {
           "id": 5928101,
           "category": "animal welfare",
@@ -33,5 +32,4 @@
           "persAllowed": false,
           "organizer": "Carey wales",
         },
-      ],
     };
