@@ -1,6 +1,5 @@
 {
-        "Events": [
-        {
+       {
           "id": 5928101,
           "category": "animal welfare",
           "title": "Cat Adoption Day",
@@ -28,6 +27,5 @@
           "date": "July 10 2022",
           "time": "11:00",
           "organizer": "Carey wales",
-        },
-      ]
+        }
     }
